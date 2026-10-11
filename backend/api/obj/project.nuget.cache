@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "dgSpecHash": "6KXEc7Xr9Kw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\work\\RealWorld-Angular-DotNet-SocialApp\\backend\\api\\api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chann\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\google.protobuf\\3.33.5\\google.protobuf.3.33.5.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\grpc.aspnetcore\\2.76.0\\grpc.aspnetcore.2.76.0.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\grpc.aspnetcore.server\\2.76.0\\grpc.aspnetcore.server.2.76.0.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\grpc.aspnetcore.server.clientfactory\\2.76.0\\grpc.aspnetcore.server.clientfactory.2.76.0.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\grpc.aspnetcore.server.reflection\\2.76.0\\grpc.aspnetcore.server.reflection.2.76.0.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\grpc.core.api\\2.76.0\\grpc.core.api.2.76.0.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\grpc.net.client\\2.76.0\\grpc.net.client.2.76.0.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\grpc.net.clientfactory\\2.76.0\\grpc.net.clientfactory.2.76.0.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\grpc.net.common\\2.76.0\\grpc.net.common.2.76.0.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\grpc.reflection\\2.76.0\\grpc.reflection.2.76.0.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\grpc.tools\\2.78.0\\grpc.tools.2.78.0.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\10.0.3\\microsoft.aspnetcore.authentication.jwtbearer.10.0.3.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.0.1\\microsoft.identitymodel.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.0.1\\microsoft.identitymodel.jsonwebtokens.8.0.1.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.identitymodel.logging\\8.0.1\\microsoft.identitymodel.logging.8.0.1.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.identitymodel.protocols\\8.0.1\\microsoft.identitymodel.protocols.8.0.1.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\8.0.1\\microsoft.identitymodel.protocols.openidconnect.8.0.1.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.0.1\\microsoft.identitymodel.tokens.8.0.1.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\mongodb.bson\\3.6.0\\mongodb.bson.3.6.0.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\mongodb.driver\\3.6.0\\mongodb.driver.3.6.0.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\snappier\\1.0.0\\snappier.1.0.0.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\swashbuckle.aspnetcore\\6.8.1\\swashbuckle.aspnetcore.6.8.1.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.8.1\\swashbuckle.aspnetcore.swagger.6.8.1.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.8.1\\swashbuckle.aspnetcore.swaggergen.6.8.1.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.8.1\\swashbuckle.aspnetcore.swaggerui.6.8.1.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.0.1\\system.identitymodel.tokens.jwt.8.0.1.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Le package 'SharpCompress' 0.30.1 présente une vulnérabilité de gravité moyenne connue, https://github.com/advisories/GHSA-6c8g-7p36-r338.",
+      "projectPath": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\work\\RealWorld-Angular-DotNet-SocialApp\\backend\\api\\api.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\work\\RealWorld-Angular-DotNet-SocialApp\\backend\\api\\api.csproj",
+      "libraryId": "SharpCompress",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Le package 'Snappier' 1.0.0 présente une vulnérabilité de gravité élevé(e) connue, https://github.com/advisories/GHSA-pggp-6c3x-2xmx.",
+      "projectPath": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\work\\RealWorld-Angular-DotNet-SocialApp\\backend\\api\\api.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\work\\RealWorld-Angular-DotNet-SocialApp\\backend\\api\\api.csproj",
+      "libraryId": "Snappier",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
